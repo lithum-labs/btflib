@@ -2,7 +2,7 @@
 > [!WARNING]  
 > This library has been deprecated. Use at your own risk.
 
-The vxtwitter wrapper used by Selene. It is now obsolete as Twitter embedding has been restored.
+The vxtwitter wrapper used by Lithum(Selene). It is now obsolete as Twitter embedding has been restored.
 
 ## Install
 It is not available from PyPI as it was originally discontinued from Selene and therefore a separated library. Please install from GitHub.
