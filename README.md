@@ -7,7 +7,7 @@ The vxtwitter wrapper used by Selene. It is now obsolete as Twitter embedding ha
 ## Install
 It is not available from PyPI as it was originally discontinued from Selene and therefore a separated library. Please install from GitHub.
 ```
-$ pip install git+https://github.com/selene-discord-dev/btflib.git
+$ pip install git+https://github.com/lithum-labs/btflib.git
 ```
 
 ## Example
