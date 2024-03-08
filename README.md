@@ -5,7 +5,7 @@
 The vxtwitter wrapper used by Lithum(Selene). It is now obsolete as Twitter embedding has been restored.
 
 ## Install
-It is not available from PyPI as it was originally discontinued from Selene and therefore a separated library. Please install from GitHub.
+This is a deprecated library and is not available in PyPI, install it from GitHub.
 ```
 $ pip install git+https://github.com/lithum-labs/btflib.git
 ```
